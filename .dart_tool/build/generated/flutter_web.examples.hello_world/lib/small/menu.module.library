@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web.examples.hello_world|lib/data/menu.dart","flutter_web|lib/material.dart","flutter_web.examples.hello_world|lib/styles.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
